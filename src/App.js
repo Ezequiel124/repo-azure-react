@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />        
         <p> 
-          Proyecto final de Azure
+          <h1>Proyecto de Azure</h1>
           Integrantes del equipo:
-            <br>1. Mauricio Ezequiel Puente Rocha
-            <br>2. Omar Segura Sena
-            <br>3. Roberto Yair Tellez Luna
+            1. Mauricio Ezequiel Puente Rocha
+            2. Omar Segura Sena
+            3. Roberto Yair Tellez Luna
         </p>
         <a
           className="App-link"
