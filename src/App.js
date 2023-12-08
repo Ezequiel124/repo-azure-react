@@ -26,4 +26,5 @@ function App() {
   );
 }
 
+/*GHS*/
 export default App;
